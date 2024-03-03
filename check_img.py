@@ -1,4 +1,4 @@
-python
+import os,cv2
 
 class ImageProcessor:
     def __init__(self, path, train_file):

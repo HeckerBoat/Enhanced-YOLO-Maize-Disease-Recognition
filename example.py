@@ -1,4 +1,4 @@
-python
+import cv2
 
 class YOLOv5Detector:
     def __init__(self, weights, data, device='', half=False, dnn=False):
